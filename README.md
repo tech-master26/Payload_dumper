@@ -4,10 +4,12 @@ used to extract image files from payload.bin file [ota firmware]
 Prerequisites: python3
 
 ## Steps:
-1. [install]() termux
-2. 
+1. [Download](https://github.com/termux/termux-app.git) termux universal debug.
 
-        cd payload_dumper
+## Use following command:
+I have include all command in one line
+''' apt update && apt upgrade -y && apt install -y git wget python zip unzip && git clone https://github.com/sirajul26/Payload_dumper.git
+'''
 
 3. Extract firmware zip file and copy payload.bin into payload_dumper folder
 
