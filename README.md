@@ -3,15 +3,15 @@ used to extract image files from payload.bin file [ota firmware]
 
 Prerequisites: python3
 
-Steps:
-
-1. Download payload_dumper from this link [payload_dumper](https://github.com/manojanasuri16/payload_dumper/archive/refs/heads/main.zip), extract zip file and change current directory to the repository directory
+## Steps:
+1. [install]() termux
+2. 
 
         cd payload_dumper
 
-2. Extract firmware zip file and copy payload.bin into payload_dumper folder
+3. Extract firmware zip file and copy payload.bin into payload_dumper folder
 
-3. run
+4. run
 
         python payload_dumper.py payload.bin
 
