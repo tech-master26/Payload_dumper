@@ -146,9 +146,9 @@ Extract **firmware** zip file and copy the extracted folder path
 ## now your payload file will be extrected on the same path 
 ![image](/reference_pics/1.1.png)
 ![image](/reference_pics/1.2.png)
-![image](https://github.com/sirajul26/Payload_dumper/reference_pics/2.1.png)
-![image](https://github.com/sirajul26/Payload_dumper/reference_pics/2.2.png)
-![image](https://github.com/sirajul26/Payload_dumper/reference_pics/3.1.png)
-![image](https://github.com/sirajul26/Payload_dumper/reference_pics/3.2.png)
-![image](https://github.com/sirajul26/Payload_dumper/reference_pics/3.3.png)
+![image](/references_pics/2.1.png)
+![image](/references_pics/2.2.png)
+![image](/references_pics/3.1.png)
+![image](/references_pics/3.2.png)
+![image](/references_pics/3.3.png)
 ## Thank for using.
