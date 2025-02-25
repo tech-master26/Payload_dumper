@@ -1,6 +1,6 @@
 # **📦 Payload Dumper - Extract IMG Files from OTA ZIPs**  
 
-![Payload Dumper](https://your-image-url.com/banner.png)  
+![Payload Dumper](/reference_pics/Banner.png)  
 
 > **Easily extract `.img` files from Android OTA ZIPs using Termux or the dedicated Android app!**  
 
