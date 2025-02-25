@@ -18,7 +18,8 @@
 
 ## 📌 **Installation & Usage**  
 
-###🔹 Method 1: 
+## Method 1:
+
 **Using Termux (Command Line)**  
 
 1️⃣ **Install Termux (if not installed)**  
@@ -48,7 +49,7 @@ Extract **firmware** zip file and copy the extracted folder path
 
 ---
 
-###🔹 Method 2: 
+## Method 2: 
 **Using Android App**  
 
 1️⃣ **Download the Payload Dumper App**  
