@@ -37,12 +37,7 @@ Extract **firmware** zip file and copy the extracted folder path
 *eg.. /storage/emulated/0/Download/payload.bin*
 
        python pd.py (file path)payload.bin
-   ```bash
-   pkg update && pkg upgrade
-   pkg install python
-   pip install payload-dumper-go
-   ```
-
+       
 2️⃣ **Extract `.img` files from OTA ZIP**  
    ```bash
    python payload-dumper-go.py -i /path/to/your/ota.zip
