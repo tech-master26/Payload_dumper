@@ -1,5 +1,5 @@
 # **Payload Dumper**
-# *Extract IMG Files from OTA ZIPs* 
+*Extract IMG Files from OTA ZIPs* 
 
 ![Payload Dumper](/reference_pics/Banner.png)  
 
