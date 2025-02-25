@@ -50,7 +50,7 @@ Extract **firmware** zip file and copy the extracted folder path
 ### **🔹 Method 2: Using Android App**  
 
 1️⃣ **Download the Payload Dumper App**  
-   📥 [Download APK](https://github.com/tech-master26/Payload_dumper/releases/download/Payload/)  
+   📥 [Download APK](https://github.com/tech-master26/Payload_dumper/releases/)  
 
 2️⃣ **Open the app and select your OTA ZIP file**  
 
