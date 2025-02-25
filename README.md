@@ -1,3 +1,94 @@
+# **📦 Payload Dumper - Extract IMG Files from OTA ZIPs**  
+
+![Payload Dumper](https://your-image-url.com/banner.png)  
+
+> **Easily extract `.img` files from Android OTA ZIPs using Termux or the dedicated Android app!**  
+
+---
+
+## 🚀 **Features**  
+✅ Extract `.img` files from `payload.bin` in OTA ZIPs  
+✅ Works on **both Termux (CLI)** and **Android app (GUI)**  
+✅ No root required  
+✅ Simple and lightweight  
+✅ Fast and efficient extraction  
+
+---
+
+## 📌 **Installation & Usage**  
+
+### **🔹 Method 1: Using Termux (Command Line)**  
+
+1️⃣ **Install Termux (if not installed)**  
+   ```bash
+   pkg update && pkg upgrade
+   pkg install python
+   pip install payload-dumper-go
+   ```
+
+2️⃣ **Extract `.img` files from OTA ZIP**  
+   ```bash
+   python payload-dumper-go.py -i /path/to/your/ota.zip
+   ```
+
+3️⃣ **Find extracted images in the output directory**  
+
+---
+
+### **🔹 Method 2: Using Android App**  
+
+1️⃣ **Download the Payload Dumper App**  
+   📥 [Download APK]()  
+
+2️⃣ **Open the app and select your OTA ZIP file**  
+
+3️⃣ **Tap "Extract" and let the magic happen!**  
+
+4️⃣ **Find your `.img` files in the output folder**  
+
+---
+
+## 📸 **Screenshots**  
+| Home Screen | Extraction in Progress | Extracted Files |
+|-------------|----------------------|----------------|
+| ![Home](https://your-image-url.com/home.png) | ![Extracting](https://your-image-url.com/extracting.png) | ![Files](https://your-image-url.com/files.png) |
+
+---
+
+## 🛠 **Requirements**  
+- **For Termux**: Python 3.6+  
+- **For Android App**: Android 5.0+  
+
+---
+
+## ❓ **FAQ**  
+
+🔹 **Where can I find the extracted `.img` files?**  
+👉 The files will be saved in the app’s output folder or Termux’s working directory.  
+
+🔹 **Does it require root?**  
+👉 No, it works without root!  
+
+🔹 **Can I use it to modify OTA images?**  
+👉 Yes! Developers can modify and repack system images after extraction.  
+
+---
+
+## 📜 **License**  
+This project is open-source and available under the **MIT License**.  
+
+---
+
+## 💬 **Support & Contributions**  
+Found a bug or have a suggestion? Feel free to **open an issue** or **contribute** to the project on GitHub!  
+
+📌 **GitHub Repository:** [Your GitHub Link]  
+
+---
+
+
+
+
 ### **Payload Dumper - Extract IMG Files from OTA ZIPs**  
 
 🚀 **Introducing Payload Dumper!** 🚀  
