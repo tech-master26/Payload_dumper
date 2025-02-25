@@ -52,7 +52,7 @@
 ## 📸 **Screenshots**  
 | Home Screen | Extraction in Progress | Extracted Files |
 |-------------|----------------------|----------------|
-| ![Home](https://your-image-url.com/home.png) | ![Extracting](https://your-image-url.com/extracting.png) | ![Files](https://your-image-url.com/files.png) |
+| ![Home](/reference_pic/Home.png) | ![Extracting](https://your-image-url.com/extracting.png) | ![Files](https://your-image-url.com/files.png) |
 
 ---
 
