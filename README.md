@@ -139,9 +139,9 @@ Prerequisites: python3
 ## now your payload file will be extrected on the same path 
 ![image](/reference_pics/1.1.png)
 ![image](/reference_pics/1.2.png)
-![image](/references_pics/2.1.png)
-![image](/references_pics/2.2.png)
-![image](/references_pics/3.1.png)
-![image](/references_pics/3.2.png)
-![image](/references_pics/3.3.png)
+![image](/reference_pics/2.1.png)
+![image](/reference_pics/2.2.png)
+![image](/reference_pics/3.1.png)
+![image](/reference_pics/3.2.png)
+![image](/reference_pics/3.3.png)
 ## Thank for using.
