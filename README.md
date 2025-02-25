@@ -19,10 +19,10 @@
 ## 📌 **Installation & Usage**  
 
 ###🔹 Method 1: 
-Using Termux (Command Line)**  
+**Using Termux (Command Line)**  
 
 1️⃣ **Install Termux (if not installed)**  
-*I have include all command in one line*
+**I have include all command in one line**
 
        apt update && apt upgrade -y && apt install -y git wget python zip unzip && git clone https://github.com/sirajul26/Payload_dumper.git
 ## Now goto The repositoriy
